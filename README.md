@@ -1,4 +1,7 @@
-## cs674-HW2
+
+## Time Series Classification using SAX representation and the MK algorithm
+### cs674-HW2
+
 
 The goal of this assignment was to use one of the many methods available to find motifs,
 repeated patterns in time series data, in order to classify new observed time series. For this assignment
